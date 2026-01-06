@@ -57,3 +57,10 @@ This project analyzes credit card transaction and customer data to uncover insig
 🚀 Outcome
 
 - The dashboards enable stakeholders to quickly identify high-value customers, top revenue drivers, and transaction trends, helping improve marketing strategy, customer targeting, and financial planning.
+
+📸 Screenshots:
+Show what dashboard look like. - ![Alt text](https://github.com/radhikasonar21/Credit-Card-Report/blob/main/CC%20Report%20S1.png)
+Example: ![Dashboard Preview].(https://github.com/radhikasonar21/E-Commerce-Sales-Dashboard-/blob/main/New%20Sales%20SS1.png)
+
+![Alt text](https://github.com/radhikasonar21/Credit-Card-Report/blob/main/CC%20Report%20S2.png)
+Example: ![Dashboard Preview].(https://github.com/radhikasonar21/E-Commerce-Sales-Dashboard-/blob/main/New%20Sales%20SS2.png)
